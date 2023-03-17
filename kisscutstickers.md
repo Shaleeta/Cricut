@@ -7,24 +7,26 @@ We used the print-then cut feature in Cricut to create these stickers for the Re
 
 #### Best Settings:
 
-Material: Window Cling
-Pressure: More
-Effect: Kiss-cut, completely cutting through the sticker side while only occasionally leaving a faint impression on the backing.
+Material: Adhesive Foil (108)
+Pressure: Default
+Effect: Perfect Kiss-Cut with full cut through the sticker side and no marks on the backing. 
 
 #### Next-Best Settings 
 
-Material: Washi Sheet
+Material: Window Cling (100)
 Pressure: More
-Effect: Kiss-cut with some sections where the cut isn't quite all the way through. Works, but tears occasionally. May work great with slightly thinner label sheets! 
-
+Effect: Kiss-cut, completely cutting through the sticker side while only occasionally leaving a faint impression on the backing.
+Downside: One extra setting to select when going through the process (slows it down)
 
 #### Other Settings Tested:
+The numbers in parenthesis are the pressure settings listed on the Cricut site, and don't account for more/less pressure.
 
-- Sticker Paper, Default Pressure: Die cut
-- Sticker Paper, Light Pressure: Die cut
-- Washi (.006 version) Light Pressure: didn’t cut through top layer
-- Washi (.006 version) Default Pressure: didn’t cut through top layer
-- Washi Sheet, Default Pressure: Almost through, not quite! 
+- Sticker Paper (270) Default Pressure: Die cut
+- Sticker Paper (270)  Light Pressure: Die cut
+- Washi .006 version (70) Light Pressure: didn’t cut through top layer
+- Washi .006 version (70) Default Pressure: didn’t cut through top layer
+- Washi Sheet (85), Default Pressure: Almost through, not quite! 
+- Washi Sheet (85), More Pressure: Kiss-cut with some sections where the cut isn't quite all the way through. Works, but tears occasionally. May work great with slightly thinner label sheets! 
 
 ### Other Tips
 
