@@ -7,6 +7,6 @@ This is a place for me to review various projects using the Cricut and the best 
 ### Projects 
 
 - [Kiss-cut Stickers](kisscutstickers.md)
-- Folding Die-Cut Tabs
+- [Folding Die-Cut Tabs](diecuttabs.md)
 - Window Decals
 - 
