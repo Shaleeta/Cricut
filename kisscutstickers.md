@@ -3,20 +3,23 @@
 ## Kiss-cut Stickers
 
 We used the print-then cut feature in Cricut to create these stickers for the Referendum at the BCITSA. Using Avery Label Paper (30605) we wanted to create four strips of stickers for BCIT students to get inside of the monthly magazine.
+
+
+
 ### Setting Review
 
 #### Best Settings:
 
-Material: Adhesive Foil (108)
-Pressure: Default
-Effect: Perfect Kiss-Cut with full cut through the sticker side and no marks on the backing. 
+ - Material: Adhesive Foil (108)
+ - Pressure: Default
+ - Effect: Perfect Kiss-Cut with full cut through the sticker side and no marks on the backing. 
 
 #### Next-Best Settings 
 
-Material: Window Cling (100)
-Pressure: More
-Effect: Kiss-cut, completely cutting through the sticker side while only occasionally leaving a faint impression on the backing.
-Downside: One extra setting to select when going through the process (slows it down)
+ - Material: Window Cling (100)
+ - Pressure: More
+ - Effect: Kiss-cut, completely cutting through the sticker side while only occasionally leaving a faint impression on the backing.
+ - Downside: One extra setting to select when going through the process (slows it down)
 
 #### Other Settings Tested:
 The numbers in parenthesis are the pressure settings listed on the Cricut site, and don't account for more/less pressure.
